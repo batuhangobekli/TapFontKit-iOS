@@ -5,7 +5,6 @@ target 'TapFontKit-iOS' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
   pod 'SwiftLint'
-  pod 'TapAdditionsKit'
   pod 'TapSwiftFixes'
 
   # Pods for TapFontKit-iOS

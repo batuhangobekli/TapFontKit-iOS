@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -23,6 +23,25 @@
 		E8221068248E1E95008A6C75 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E8221066248E1E95008A6C75 /* LaunchScreen.storyboard */; };
 		E8221073248E1E95008A6C75 /* TapFontKitExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8221072248E1E95008A6C75 /* TapFontKitExampleTests.swift */; };
 		E822107E248E1E95008A6C75 /* TapFontKitExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E822107D248E1E95008A6C75 /* TapFontKitExampleUITests.swift */; };
+		E822108D248E1F55008A6C75 /* TapFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = E822108B248E1F55008A6C75 /* TapFont.swift */; };
+		E822108E248E1F55008A6C75 /* FontProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = E822108C248E1F55008A6C75 /* FontProvider.swift */; };
+		E822109E248E1F64008A6C75 /* HelveticaNeueLTW20-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E822108F248E1F63008A6C75 /* HelveticaNeueLTW20-Bold.ttf */; };
+		E822109F248E1F64008A6C75 /* Circe-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221090248E1F63008A6C75 /* Circe-ExtraBold.ttf */; };
+		E82210A0248E1F64008A6C75 /* Circe-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221091248E1F63008A6C75 /* Circe-Regular.ttf */; };
+		E82210A1248E1F64008A6C75 /* Roboto-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221092248E1F63008A6C75 /* Roboto-Black.ttf */; };
+		E82210A2248E1F64008A6C75 /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221093248E1F63008A6C75 /* Roboto-Light.ttf */; };
+		E82210A3248E1F64008A6C75 /* Circe-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221094248E1F64008A6C75 /* Circe-Thin.ttf */; };
+		E82210A4248E1F64008A6C75 /* Circe-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221095248E1F64008A6C75 /* Circe-Bold.ttf */; };
+		E82210A5248E1F64008A6C75 /* HelveticaNeueLTW20-Roman.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221096248E1F64008A6C75 /* HelveticaNeueLTW20-Roman.ttf */; };
+		E82210A6248E1F64008A6C75 /* HelveticaNeueLTW20-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221097248E1F64008A6C75 /* HelveticaNeueLTW20-Light.ttf */; };
+		E82210A7248E1F64008A6C75 /* Circe-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221098248E1F64008A6C75 /* Circe-Light.ttf */; };
+		E82210A8248E1F64008A6C75 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221099248E1F64008A6C75 /* Roboto-Regular.ttf */; };
+		E82210A9248E1F64008A6C75 /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E822109A248E1F64008A6C75 /* Roboto-Bold.ttf */; };
+		E82210AA248E1F64008A6C75 /* Roboto-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E822109B248E1F64008A6C75 /* Roboto-Thin.ttf */; };
+		E82210AB248E1F64008A6C75 /* Circe-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E822109C248E1F64008A6C75 /* Circe-ExtraLight.ttf */; };
+		E82210AC248E1F64008A6C75 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E822109D248E1F64008A6C75 /* Roboto-Medium.ttf */; };
+		E82210AD248E1F92008A6C75 /* TapFontKit_iOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E822103B248E1E72008A6C75 /* TapFontKit_iOS.framework */; };
+		E82210AE248E1F92008A6C75 /* TapFontKit_iOS.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = E822103B248E1E72008A6C75 /* TapFontKit_iOS.framework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,7 +66,28 @@
 			remoteGlobalIDString = E8221058248E1E93008A6C75;
 			remoteInfo = TapFontKitExample;
 		};
+		E82210AF248E1F92008A6C75 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E8221032248E1E72008A6C75 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E822103A248E1E72008A6C75;
+			remoteInfo = "TapFontKit-iOS";
+		};
 /* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		E82210B1248E1F92008A6C75 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				E82210AE248E1F92008A6C75 /* TapFontKit_iOS.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		02F443B27C9E155CB1632E1B /* Pods-TapFontKitExample-TapFontKitExampleUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TapFontKitExample-TapFontKitExampleUITests.release.xcconfig"; path = "Target Support Files/Pods-TapFontKitExample-TapFontKitExampleUITests/Pods-TapFontKitExample-TapFontKitExampleUITests.release.xcconfig"; sourceTree = "<group>"; };
@@ -84,6 +124,24 @@
 		E8221079248E1E95008A6C75 /* TapFontKitExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TapFontKitExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E822107D248E1E95008A6C75 /* TapFontKitExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapFontKitExampleUITests.swift; sourceTree = "<group>"; };
 		E822107F248E1E95008A6C75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E822108B248E1F55008A6C75 /* TapFont.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TapFont.swift; sourceTree = "<group>"; };
+		E822108C248E1F55008A6C75 /* FontProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontProvider.swift; sourceTree = "<group>"; };
+		E822108F248E1F63008A6C75 /* HelveticaNeueLTW20-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HelveticaNeueLTW20-Bold.ttf"; sourceTree = "<group>"; };
+		E8221090248E1F63008A6C75 /* Circe-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Circe-ExtraBold.ttf"; sourceTree = "<group>"; };
+		E8221091248E1F63008A6C75 /* Circe-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Circe-Regular.ttf"; sourceTree = "<group>"; };
+		E8221092248E1F63008A6C75 /* Roboto-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Black.ttf"; sourceTree = "<group>"; };
+		E8221093248E1F63008A6C75 /* Roboto-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Light.ttf"; sourceTree = "<group>"; };
+		E8221094248E1F64008A6C75 /* Circe-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Circe-Thin.ttf"; sourceTree = "<group>"; };
+		E8221095248E1F64008A6C75 /* Circe-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Circe-Bold.ttf"; sourceTree = "<group>"; };
+		E8221096248E1F64008A6C75 /* HelveticaNeueLTW20-Roman.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HelveticaNeueLTW20-Roman.ttf"; sourceTree = "<group>"; };
+		E8221097248E1F64008A6C75 /* HelveticaNeueLTW20-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HelveticaNeueLTW20-Light.ttf"; sourceTree = "<group>"; };
+		E8221098248E1F64008A6C75 /* Circe-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Circe-Light.ttf"; sourceTree = "<group>"; };
+		E8221099248E1F64008A6C75 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		E822109A248E1F64008A6C75 /* Roboto-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Bold.ttf"; sourceTree = "<group>"; };
+		E822109B248E1F64008A6C75 /* Roboto-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Thin.ttf"; sourceTree = "<group>"; };
+		E822109C248E1F64008A6C75 /* Circe-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Circe-ExtraLight.ttf"; sourceTree = "<group>"; };
+		E822109D248E1F64008A6C75 /* Roboto-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Medium.ttf"; sourceTree = "<group>"; };
+		E82210B2248E20C6008A6C75 /* TapAdditionsKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = TapAdditionsKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4A98B612ADBC1DB91FCA484 /* Pods-TapFontKitExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TapFontKitExample.release.xcconfig"; path = "Target Support Files/Pods-TapFontKitExample/Pods-TapFontKitExample.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -109,6 +167,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E82210AD248E1F92008A6C75 /* TapFontKit_iOS.framework in Frameworks */,
 				3D11B23318D77070FCF2CA6D /* Pods_TapFontKitExample.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -135,6 +194,7 @@
 		505A04DBA16F419B3EC8E2FF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				E82210B2248E20C6008A6C75 /* TapAdditionsKit.framework */,
 				778217D6AEBD761F5F5AF752 /* Pods_TapFontKit_iOS.framework */,
 				564E27B1F4C3F996697F3A77 /* Pods_TapFontKit_iOS_TapFontKit_iOSTests.framework */,
 				1D044FC22A9F3C074ADC3229 /* Pods_TapFontKitExample.framework */,
@@ -173,6 +233,8 @@
 		E822103D248E1E72008A6C75 /* TapFontKit-iOS */ = {
 			isa = PBXGroup;
 			children = (
+				E822108A248E1F2C008A6C75 /* Core */,
+				E8221089248E1F23008A6C75 /* Resources */,
 				E822103E248E1E72008A6C75 /* TapFontKit_iOS.h */,
 				E822103F248E1E72008A6C75 /* Info.plist */,
 			);
@@ -220,6 +282,37 @@
 			path = TapFontKitExampleUITests;
 			sourceTree = "<group>";
 		};
+		E8221089248E1F23008A6C75 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E8221095248E1F64008A6C75 /* Circe-Bold.ttf */,
+				E8221090248E1F63008A6C75 /* Circe-ExtraBold.ttf */,
+				E822109C248E1F64008A6C75 /* Circe-ExtraLight.ttf */,
+				E8221098248E1F64008A6C75 /* Circe-Light.ttf */,
+				E8221091248E1F63008A6C75 /* Circe-Regular.ttf */,
+				E8221094248E1F64008A6C75 /* Circe-Thin.ttf */,
+				E822108F248E1F63008A6C75 /* HelveticaNeueLTW20-Bold.ttf */,
+				E8221097248E1F64008A6C75 /* HelveticaNeueLTW20-Light.ttf */,
+				E8221096248E1F64008A6C75 /* HelveticaNeueLTW20-Roman.ttf */,
+				E8221092248E1F63008A6C75 /* Roboto-Black.ttf */,
+				E822109A248E1F64008A6C75 /* Roboto-Bold.ttf */,
+				E8221093248E1F63008A6C75 /* Roboto-Light.ttf */,
+				E822109D248E1F64008A6C75 /* Roboto-Medium.ttf */,
+				E8221099248E1F64008A6C75 /* Roboto-Regular.ttf */,
+				E822109B248E1F64008A6C75 /* Roboto-Thin.ttf */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		E822108A248E1F2C008A6C75 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				E822108C248E1F55008A6C75 /* FontProvider.swift */,
+				E822108B248E1F55008A6C75 /* TapFont.swift */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
 		F92AE03F80DF4AE8E213135E /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -234,7 +327,6 @@
 				65C3314922F249261E4900BF /* Pods-TapFontKitExampleTests.debug.xcconfig */,
 				8BF615FFD7B2E3795BA9470B /* Pods-TapFontKitExampleTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -299,10 +391,13 @@
 				E8221055248E1E93008A6C75 /* Sources */,
 				E8221056248E1E93008A6C75 /* Frameworks */,
 				E8221057248E1E93008A6C75 /* Resources */,
+				E82210B1248E1F92008A6C75 /* Embed Frameworks */,
+				9A2D36C1A89DDC1DEEC96A70 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				E82210B0248E1F92008A6C75 /* PBXTargetDependency */,
 			);
 			name = TapFontKitExample;
 			productName = TapFontKitExample;
@@ -359,6 +454,7 @@
 				TargetAttributes = {
 					E822103A248E1E72008A6C75 = {
 						CreatedOnToolsVersion = 11.5;
+						LastSwiftMigration = 1150;
 					};
 					E8221043248E1E72008A6C75 = {
 						CreatedOnToolsVersion = 11.5;
@@ -390,8 +486,8 @@
 			projectRoot = "";
 			targets = (
 				E822103A248E1E72008A6C75 /* TapFontKit-iOS */,
-				E8221043248E1E72008A6C75 /* TapFontKit-iOSTests */,
 				E8221058248E1E93008A6C75 /* TapFontKitExample */,
+				E8221043248E1E72008A6C75 /* TapFontKit-iOSTests */,
 				E822106D248E1E95008A6C75 /* TapFontKitExampleTests */,
 				E8221078248E1E95008A6C75 /* TapFontKitExampleUITests */,
 			);
@@ -403,6 +499,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E822109E248E1F64008A6C75 /* HelveticaNeueLTW20-Bold.ttf in Resources */,
+				E82210A8248E1F64008A6C75 /* Roboto-Regular.ttf in Resources */,
+				E82210A9248E1F64008A6C75 /* Roboto-Bold.ttf in Resources */,
+				E82210AB248E1F64008A6C75 /* Circe-ExtraLight.ttf in Resources */,
+				E82210A6248E1F64008A6C75 /* HelveticaNeueLTW20-Light.ttf in Resources */,
+				E82210AC248E1F64008A6C75 /* Roboto-Medium.ttf in Resources */,
+				E82210A0248E1F64008A6C75 /* Circe-Regular.ttf in Resources */,
+				E82210A4248E1F64008A6C75 /* Circe-Bold.ttf in Resources */,
+				E82210A2248E1F64008A6C75 /* Roboto-Light.ttf in Resources */,
+				E822109F248E1F64008A6C75 /* Circe-ExtraBold.ttf in Resources */,
+				E82210A5248E1F64008A6C75 /* HelveticaNeueLTW20-Roman.ttf in Resources */,
+				E82210A3248E1F64008A6C75 /* Circe-Thin.ttf in Resources */,
+				E82210A7248E1F64008A6C75 /* Circe-Light.ttf in Resources */,
+				E82210AA248E1F64008A6C75 /* Roboto-Thin.ttf in Resources */,
+				E82210A1248E1F64008A6C75 /* Roboto-Black.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -501,6 +612,23 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
+		9A2D36C1A89DDC1DEEC96A70 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-TapFontKitExample/Pods-TapFontKitExample-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-TapFontKitExample/Pods-TapFontKitExample-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TapFontKitExample/Pods-TapFontKitExample-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		C57A9D35C0583ED19DA8003A /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -574,6 +702,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E822108D248E1F55008A6C75 /* TapFont.swift in Sources */,
+				E822108E248E1F55008A6C75 /* FontProvider.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -628,6 +758,11 @@
 			isa = PBXTargetDependency;
 			target = E8221058248E1E93008A6C75 /* TapFontKitExample */;
 			targetProxy = E822107A248E1E95008A6C75 /* PBXContainerItemProxy */;
+		};
+		E82210B0248E1F92008A6C75 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E822103A248E1E72008A6C75 /* TapFontKit-iOS */;
+			targetProxy = E82210AF248E1F92008A6C75 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -702,7 +837,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -759,7 +894,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -775,6 +910,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 167E0ED84DC1C94A3A3C9F91 /* Pods-TapFontKit-iOS.debug.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = G46S76PUH4;
@@ -783,14 +919,17 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "TapFontKit-iOS/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "tap.company.TapFontKit-iOS";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				PRODUCT_NAME = TapFontKit_iOS;
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -800,6 +939,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 74D679DE5AEDF1AF77ADFB86 /* Pods-TapFontKit-iOS.release.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = G46S76PUH4;
@@ -808,14 +948,16 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "TapFontKit-iOS/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "tap.company.TapFontKit-iOS";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				PRODUCT_NAME = TapFontKit_iOS;
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -825,6 +967,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 25DCB0018C045103232EB91F /* Pods-TapFontKit-iOS-TapFontKit-iOSTests.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = G46S76PUH4;
 				INFOPLIST_FILE = "TapFontKit-iOSTests/Info.plist";
@@ -844,6 +987,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1F2B461030F87F7A752F6639 /* Pods-TapFontKit-iOS-TapFontKit-iOSTests.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = G46S76PUH4;
 				INFOPLIST_FILE = "TapFontKit-iOSTests/Info.plist";
