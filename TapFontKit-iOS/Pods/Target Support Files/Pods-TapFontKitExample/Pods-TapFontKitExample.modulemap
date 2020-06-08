@@ -1,0 +1,6 @@
+framework module Pods_TapFontKitExample {
+  umbrella header "Pods-TapFontKitExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
