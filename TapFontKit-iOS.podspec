@@ -105,7 +105,7 @@ Pod::Spec.new do |spec|
   #
 
   # spec.resource  = "icon.png"
-  spec.resources = "TapFontKit-iOS/TapFontKit-iOS/Resources/**/*.{.ttf}"
+  spec.resources = "TapFontKit-iOS/TapFontKit-iOS/Resources/**/*.{ttf}"
 
   # spec.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
