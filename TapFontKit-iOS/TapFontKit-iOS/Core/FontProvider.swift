@@ -201,10 +201,10 @@ public class FontProvider {
 }
 
 
-extension UIFont {
+fileprivate extension UIFont {
     
     // load framework font in application
-    public static func register(fontNames:[String]) {
+    static func register(fontNames:[String]) {
         fontNames.forEach{ registerFontWith(filenameString: $0, bundleIdentifierString: "Fonts") }
     }
     
