@@ -6,7 +6,6 @@ target 'TapFontKit-iOS' do
   use_frameworks!
   pod 'SwiftLint'
   pod 'TapSwiftFixes'
-
   # Pods for TapFontKit-iOS
 
   target 'TapFontKit-iOSTests' do
