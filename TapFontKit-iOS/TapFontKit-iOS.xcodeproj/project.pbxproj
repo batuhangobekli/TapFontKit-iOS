@@ -42,6 +42,13 @@
 		E82210AC248E1F64008A6C75 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E822109D248E1F64008A6C75 /* Roboto-Medium.ttf */; };
 		E82210AD248E1F92008A6C75 /* TapFontKit_iOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E822103B248E1E72008A6C75 /* TapFontKit_iOS.framework */; };
 		E82210AE248E1F92008A6C75 /* TapFontKit_iOS.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = E822103B248E1E72008A6C75 /* TapFontKit_iOS.framework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		E87DC5E724C9B6B6001896DA /* Tajawal-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E87DC5E024C9B6B6001896DA /* Tajawal-Light.ttf */; };
+		E87DC5E824C9B6B6001896DA /* Tajawal-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E87DC5E124C9B6B6001896DA /* Tajawal-ExtraLight.ttf */; };
+		E87DC5E924C9B6B6001896DA /* Tajawal-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E87DC5E224C9B6B6001896DA /* Tajawal-Medium.ttf */; };
+		E87DC5EA24C9B6B6001896DA /* Tajawal-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E87DC5E324C9B6B6001896DA /* Tajawal-Bold.ttf */; };
+		E87DC5EB24C9B6B6001896DA /* Tajawal-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E87DC5E424C9B6B6001896DA /* Tajawal-ExtraBold.ttf */; };
+		E87DC5EC24C9B6B6001896DA /* Tajawal-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E87DC5E524C9B6B6001896DA /* Tajawal-Black.ttf */; };
+		E87DC5ED24C9B6B6001896DA /* Tajawal-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E87DC5E624C9B6B6001896DA /* Tajawal-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -142,6 +149,13 @@
 		E822109C248E1F64008A6C75 /* Circe-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Circe-ExtraLight.ttf"; sourceTree = "<group>"; };
 		E822109D248E1F64008A6C75 /* Roboto-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Medium.ttf"; sourceTree = "<group>"; };
 		E82210B2248E20C6008A6C75 /* TapAdditionsKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = TapAdditionsKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E87DC5E024C9B6B6001896DA /* Tajawal-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Tajawal-Light.ttf"; sourceTree = "<group>"; };
+		E87DC5E124C9B6B6001896DA /* Tajawal-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Tajawal-ExtraLight.ttf"; sourceTree = "<group>"; };
+		E87DC5E224C9B6B6001896DA /* Tajawal-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Tajawal-Medium.ttf"; sourceTree = "<group>"; };
+		E87DC5E324C9B6B6001896DA /* Tajawal-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Tajawal-Bold.ttf"; sourceTree = "<group>"; };
+		E87DC5E424C9B6B6001896DA /* Tajawal-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Tajawal-ExtraBold.ttf"; sourceTree = "<group>"; };
+		E87DC5E524C9B6B6001896DA /* Tajawal-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Tajawal-Black.ttf"; sourceTree = "<group>"; };
+		E87DC5E624C9B6B6001896DA /* Tajawal-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Tajawal-Regular.ttf"; sourceTree = "<group>"; };
 		F4A98B612ADBC1DB91FCA484 /* Pods-TapFontKitExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TapFontKitExample.release.xcconfig"; path = "Target Support Files/Pods-TapFontKitExample/Pods-TapFontKitExample.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -285,6 +299,13 @@
 		E8221089248E1F23008A6C75 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				E87DC5E524C9B6B6001896DA /* Tajawal-Black.ttf */,
+				E87DC5E324C9B6B6001896DA /* Tajawal-Bold.ttf */,
+				E87DC5E424C9B6B6001896DA /* Tajawal-ExtraBold.ttf */,
+				E87DC5E124C9B6B6001896DA /* Tajawal-ExtraLight.ttf */,
+				E87DC5E024C9B6B6001896DA /* Tajawal-Light.ttf */,
+				E87DC5E224C9B6B6001896DA /* Tajawal-Medium.ttf */,
+				E87DC5E624C9B6B6001896DA /* Tajawal-Regular.ttf */,
 				E8221095248E1F64008A6C75 /* Circe-Bold.ttf */,
 				E8221090248E1F63008A6C75 /* Circe-ExtraBold.ttf */,
 				E822109C248E1F64008A6C75 /* Circe-ExtraLight.ttf */,
@@ -499,12 +520,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E87DC5E824C9B6B6001896DA /* Tajawal-ExtraLight.ttf in Resources */,
 				E822109E248E1F64008A6C75 /* HelveticaNeueLTW20-Bold.ttf in Resources */,
 				E82210A8248E1F64008A6C75 /* Roboto-Regular.ttf in Resources */,
+				E87DC5EC24C9B6B6001896DA /* Tajawal-Black.ttf in Resources */,
+				E87DC5ED24C9B6B6001896DA /* Tajawal-Regular.ttf in Resources */,
+				E87DC5EB24C9B6B6001896DA /* Tajawal-ExtraBold.ttf in Resources */,
 				E82210A9248E1F64008A6C75 /* Roboto-Bold.ttf in Resources */,
+				E87DC5E924C9B6B6001896DA /* Tajawal-Medium.ttf in Resources */,
 				E82210AB248E1F64008A6C75 /* Circe-ExtraLight.ttf in Resources */,
 				E82210A6248E1F64008A6C75 /* HelveticaNeueLTW20-Light.ttf in Resources */,
 				E82210AC248E1F64008A6C75 /* Roboto-Medium.ttf in Resources */,
+				E87DC5E724C9B6B6001896DA /* Tajawal-Light.ttf in Resources */,
 				E82210A0248E1F64008A6C75 /* Circe-Regular.ttf in Resources */,
 				E82210A4248E1F64008A6C75 /* Circe-Bold.ttf in Resources */,
 				E82210A2248E1F64008A6C75 /* Roboto-Light.ttf in Resources */,
@@ -513,6 +540,7 @@
 				E82210A3248E1F64008A6C75 /* Circe-Thin.ttf in Resources */,
 				E82210A7248E1F64008A6C75 /* Circe-Light.ttf in Resources */,
 				E82210AA248E1F64008A6C75 /* Roboto-Thin.ttf in Resources */,
+				E87DC5EA24C9B6B6001896DA /* Tajawal-Bold.ttf in Resources */,
 				E82210A1248E1F64008A6C75 /* Roboto-Black.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
