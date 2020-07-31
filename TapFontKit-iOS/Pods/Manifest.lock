@@ -1,5 +1,4 @@
 PODS:
-  - SwiftLint (0.39.2)
   - TapSwiftFixes (1.0.9):
     - TapSwiftFixes/CoreGraphics (= 1.0.9)
     - TapSwiftFixes/Exceptions (= 1.0.9)
@@ -9,18 +8,15 @@ PODS:
   - TapSwiftFixes/Threading (1.0.9)
 
 DEPENDENCIES:
-  - SwiftLint
   - TapSwiftFixes
 
 SPEC REPOS:
   trunk:
-    - SwiftLint
     - TapSwiftFixes
 
 SPEC CHECKSUMS:
-  SwiftLint: 22ccbbe3b8008684be5955693bab135e0ed6a447
   TapSwiftFixes: db2aeb21942dd81ee051a31ed319dab0d03547a2
 
-PODFILE CHECKSUM: 17ca36df286f23fa18183d2e32d9cba541b860a9
+PODFILE CHECKSUM: e11259c87a5f486960a3c3c8ed412fc9da2213c7
 
 COCOAPODS: 1.9.3
