@@ -25,20 +25,11 @@
 		E822107E248E1E95008A6C75 /* TapFontKitExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E822107D248E1E95008A6C75 /* TapFontKitExampleUITests.swift */; };
 		E822108D248E1F55008A6C75 /* TapFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = E822108B248E1F55008A6C75 /* TapFont.swift */; };
 		E822108E248E1F55008A6C75 /* FontProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = E822108C248E1F55008A6C75 /* FontProvider.swift */; };
-		E822109E248E1F64008A6C75 /* HelveticaNeueLTW20-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E822108F248E1F63008A6C75 /* HelveticaNeueLTW20-Bold.ttf */; };
-		E822109F248E1F64008A6C75 /* Circe-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221090248E1F63008A6C75 /* Circe-ExtraBold.ttf */; };
-		E82210A0248E1F64008A6C75 /* Circe-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221091248E1F63008A6C75 /* Circe-Regular.ttf */; };
 		E82210A1248E1F64008A6C75 /* Roboto-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221092248E1F63008A6C75 /* Roboto-Black.ttf */; };
 		E82210A2248E1F64008A6C75 /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221093248E1F63008A6C75 /* Roboto-Light.ttf */; };
-		E82210A3248E1F64008A6C75 /* Circe-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221094248E1F64008A6C75 /* Circe-Thin.ttf */; };
-		E82210A4248E1F64008A6C75 /* Circe-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221095248E1F64008A6C75 /* Circe-Bold.ttf */; };
-		E82210A5248E1F64008A6C75 /* HelveticaNeueLTW20-Roman.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221096248E1F64008A6C75 /* HelveticaNeueLTW20-Roman.ttf */; };
-		E82210A6248E1F64008A6C75 /* HelveticaNeueLTW20-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221097248E1F64008A6C75 /* HelveticaNeueLTW20-Light.ttf */; };
-		E82210A7248E1F64008A6C75 /* Circe-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221098248E1F64008A6C75 /* Circe-Light.ttf */; };
 		E82210A8248E1F64008A6C75 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8221099248E1F64008A6C75 /* Roboto-Regular.ttf */; };
 		E82210A9248E1F64008A6C75 /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E822109A248E1F64008A6C75 /* Roboto-Bold.ttf */; };
 		E82210AA248E1F64008A6C75 /* Roboto-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E822109B248E1F64008A6C75 /* Roboto-Thin.ttf */; };
-		E82210AB248E1F64008A6C75 /* Circe-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E822109C248E1F64008A6C75 /* Circe-ExtraLight.ttf */; };
 		E82210AC248E1F64008A6C75 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E822109D248E1F64008A6C75 /* Roboto-Medium.ttf */; };
 		E82210AD248E1F92008A6C75 /* TapFontKit_iOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E822103B248E1E72008A6C75 /* TapFontKit_iOS.framework */; };
 		E82210AE248E1F92008A6C75 /* TapFontKit_iOS.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = E822103B248E1E72008A6C75 /* TapFontKit_iOS.framework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
@@ -133,20 +124,11 @@
 		E822107F248E1E95008A6C75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E822108B248E1F55008A6C75 /* TapFont.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TapFont.swift; sourceTree = "<group>"; };
 		E822108C248E1F55008A6C75 /* FontProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontProvider.swift; sourceTree = "<group>"; };
-		E822108F248E1F63008A6C75 /* HelveticaNeueLTW20-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HelveticaNeueLTW20-Bold.ttf"; sourceTree = "<group>"; };
-		E8221090248E1F63008A6C75 /* Circe-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Circe-ExtraBold.ttf"; sourceTree = "<group>"; };
-		E8221091248E1F63008A6C75 /* Circe-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Circe-Regular.ttf"; sourceTree = "<group>"; };
 		E8221092248E1F63008A6C75 /* Roboto-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Black.ttf"; sourceTree = "<group>"; };
 		E8221093248E1F63008A6C75 /* Roboto-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Light.ttf"; sourceTree = "<group>"; };
-		E8221094248E1F64008A6C75 /* Circe-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Circe-Thin.ttf"; sourceTree = "<group>"; };
-		E8221095248E1F64008A6C75 /* Circe-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Circe-Bold.ttf"; sourceTree = "<group>"; };
-		E8221096248E1F64008A6C75 /* HelveticaNeueLTW20-Roman.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HelveticaNeueLTW20-Roman.ttf"; sourceTree = "<group>"; };
-		E8221097248E1F64008A6C75 /* HelveticaNeueLTW20-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HelveticaNeueLTW20-Light.ttf"; sourceTree = "<group>"; };
-		E8221098248E1F64008A6C75 /* Circe-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Circe-Light.ttf"; sourceTree = "<group>"; };
 		E8221099248E1F64008A6C75 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Regular.ttf"; sourceTree = "<group>"; };
 		E822109A248E1F64008A6C75 /* Roboto-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Bold.ttf"; sourceTree = "<group>"; };
 		E822109B248E1F64008A6C75 /* Roboto-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Thin.ttf"; sourceTree = "<group>"; };
-		E822109C248E1F64008A6C75 /* Circe-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Circe-ExtraLight.ttf"; sourceTree = "<group>"; };
 		E822109D248E1F64008A6C75 /* Roboto-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Medium.ttf"; sourceTree = "<group>"; };
 		E82210B2248E20C6008A6C75 /* TapAdditionsKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = TapAdditionsKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E87DC5E024C9B6B6001896DA /* Tajawal-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Tajawal-Light.ttf"; sourceTree = "<group>"; };
@@ -306,15 +288,6 @@
 				E87DC5E024C9B6B6001896DA /* Tajawal-Light.ttf */,
 				E87DC5E224C9B6B6001896DA /* Tajawal-Medium.ttf */,
 				E87DC5E624C9B6B6001896DA /* Tajawal-Regular.ttf */,
-				E8221095248E1F64008A6C75 /* Circe-Bold.ttf */,
-				E8221090248E1F63008A6C75 /* Circe-ExtraBold.ttf */,
-				E822109C248E1F64008A6C75 /* Circe-ExtraLight.ttf */,
-				E8221098248E1F64008A6C75 /* Circe-Light.ttf */,
-				E8221091248E1F63008A6C75 /* Circe-Regular.ttf */,
-				E8221094248E1F64008A6C75 /* Circe-Thin.ttf */,
-				E822108F248E1F63008A6C75 /* HelveticaNeueLTW20-Bold.ttf */,
-				E8221097248E1F64008A6C75 /* HelveticaNeueLTW20-Light.ttf */,
-				E8221096248E1F64008A6C75 /* HelveticaNeueLTW20-Roman.ttf */,
 				E8221092248E1F63008A6C75 /* Roboto-Black.ttf */,
 				E822109A248E1F64008A6C75 /* Roboto-Bold.ttf */,
 				E8221093248E1F63008A6C75 /* Roboto-Light.ttf */,
@@ -521,24 +494,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				E87DC5E824C9B6B6001896DA /* Tajawal-ExtraLight.ttf in Resources */,
-				E822109E248E1F64008A6C75 /* HelveticaNeueLTW20-Bold.ttf in Resources */,
 				E82210A8248E1F64008A6C75 /* Roboto-Regular.ttf in Resources */,
 				E87DC5EC24C9B6B6001896DA /* Tajawal-Black.ttf in Resources */,
 				E87DC5ED24C9B6B6001896DA /* Tajawal-Regular.ttf in Resources */,
 				E87DC5EB24C9B6B6001896DA /* Tajawal-ExtraBold.ttf in Resources */,
 				E82210A9248E1F64008A6C75 /* Roboto-Bold.ttf in Resources */,
 				E87DC5E924C9B6B6001896DA /* Tajawal-Medium.ttf in Resources */,
-				E82210AB248E1F64008A6C75 /* Circe-ExtraLight.ttf in Resources */,
-				E82210A6248E1F64008A6C75 /* HelveticaNeueLTW20-Light.ttf in Resources */,
 				E82210AC248E1F64008A6C75 /* Roboto-Medium.ttf in Resources */,
 				E87DC5E724C9B6B6001896DA /* Tajawal-Light.ttf in Resources */,
-				E82210A0248E1F64008A6C75 /* Circe-Regular.ttf in Resources */,
-				E82210A4248E1F64008A6C75 /* Circe-Bold.ttf in Resources */,
 				E82210A2248E1F64008A6C75 /* Roboto-Light.ttf in Resources */,
-				E822109F248E1F64008A6C75 /* Circe-ExtraBold.ttf in Resources */,
-				E82210A5248E1F64008A6C75 /* HelveticaNeueLTW20-Roman.ttf in Resources */,
-				E82210A3248E1F64008A6C75 /* Circe-Thin.ttf in Resources */,
-				E82210A7248E1F64008A6C75 /* Circe-Light.ttf in Resources */,
 				E82210AA248E1F64008A6C75 /* Roboto-Thin.ttf in Resources */,
 				E87DC5EA24C9B6B6001896DA /* Tajawal-Bold.ttf in Resources */,
 				E82210A1248E1F64008A6C75 /* Roboto-Black.ttf in Resources */,
