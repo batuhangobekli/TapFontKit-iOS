@@ -7,88 +7,88 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0A24EE704A069647518D60F14656C767 /* Pods-TapFontKit-iOS-TapFontKit-iOSTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B4636B5B6E32833CD0D5F00774A6D3C7 /* Pods-TapFontKit-iOS-TapFontKit-iOSTests-dummy.m */; };
-		0C41F25B5D43B543A0D033145667752B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		0C7B10B97D7F95E2CE577E0CE59767DB /* ExceptionCatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 99D866B7484FB9270FB250CFD7AAF6C7 /* ExceptionCatcher.m */; };
-		203560DB935CEFC8FA00DCD15834BF93 /* Pods-TapFontKit-iOS-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8EC0E79F55249DDBF9AD04B52DBFAAFA /* Pods-TapFontKit-iOS-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2AFE951DDFD8F444EA9BBAC533CC856C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		326865EE34BECA7FFD7F9026870855F7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		3A698D39600218D7644DB5D808626A32 /* Pods-TapFontKitExample-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 76CAC45B71B82CDBC7C2EA04422733C1 /* Pods-TapFontKitExample-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3B5972E0C53A38D9126C69E678658F79 /* ThreadingFixes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAF64E9092316730E514054606368E26 /* ThreadingFixes.swift */; };
-		4272C4651506110EF5FBD63310D78A74 /* Pods-TapFontKitExampleTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EA151B096F0FAF8A734893FC8F18891 /* Pods-TapFontKitExampleTests-dummy.m */; };
-		505A27BA814654D1DDA2A3519D2A8DE5 /* Pods-TapFontKit-iOS-TapFontKit-iOSTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8900852DD4C6E0B7718EDF85680E5BD4 /* Pods-TapFontKit-iOS-TapFontKit-iOSTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		673CF3E4AA84464764F5B129AAE3BCFF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		73DDB6280955447CDD51588473DE106E /* CoreGraphicsFixes.h in Headers */ = {isa = PBXBuildFile; fileRef = 98134E15F4060D3D4F97CD93F61E61C8 /* CoreGraphicsFixes.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8B2B9265489B9EBFB7A340947B602F75 /* CoreGraphicsFixes.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D68837D517A131927D957F6A5B0043D /* CoreGraphicsFixes.m */; };
-		8B33E97B1733D161657DA102864AAC3D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		9C6C997F21EB949EE0700E0156D5FA01 /* TapSwiftFixes-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2B4F7EEAE0B7DB7162CD1F7B506C147E /* TapSwiftFixes-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0EF5A29D71999B4789D08CA2057BF722 /* Pods-TapFontKit-iOS-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 96C89603D79F06938A01C371B01EAB4E /* Pods-TapFontKit-iOS-dummy.m */; };
+		15A1326FA04346E5D17AB1A5052EFBA1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		15EF9190BAE9990ECFCE5D118C469BBA /* CoreGraphicsFixes.m in Sources */ = {isa = PBXBuildFile; fileRef = 89583E965E391CC0E3BDEF29F8AA1D9A /* CoreGraphicsFixes.m */; };
+		242FCFB2B8E92FAC064CA8D1ED02CAAD /* TapSwiftFixesV2-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A2A2C66A5136F4A1662793E07BCC282C /* TapSwiftFixesV2-dummy.m */; };
+		29CF232BAD5B95E9C2BD06B5CED9E7E7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		38CF13ED3FF256787E87FA1062D31821 /* Pods-TapFontKit-iOS-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8EC0E79F55249DDBF9AD04B52DBFAAFA /* Pods-TapFontKit-iOS-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		43713F22AA8A437F302A677B0730DEC0 /* Pods-TapFontKitExampleTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EA151B096F0FAF8A734893FC8F18891 /* Pods-TapFontKitExampleTests-dummy.m */; };
+		462DE8A53F1EB81A1C067A3E0F0BF800 /* Pods-TapFontKitExample-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 76CAC45B71B82CDBC7C2EA04422733C1 /* Pods-TapFontKitExample-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5CE12E36BA446D16920AD53B884C9032 /* ThreadingFixes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787EB246263A55AD954E3896310CF256 /* ThreadingFixes.swift */; };
+		60AED9266F1A9E384C844F0F1C43DB94 /* Pods-TapFontKit-iOS-TapFontKit-iOSTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8900852DD4C6E0B7718EDF85680E5BD4 /* Pods-TapFontKit-iOS-TapFontKit-iOSTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		751CD451B03E616FC943C92F352FF8D8 /* ExceptionCatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B091EC3269BD5A59397B7D723900F31 /* ExceptionCatcher.m */; };
+		7BA82CF90B425B8BE2A86114B3AD7D2B /* Pods-TapFontKitExample-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 851463EC75D536A4FC5A886D651BB313 /* Pods-TapFontKitExample-dummy.m */; };
+		7D059194E1B805C6327DEAF3EF07E78F /* CoreGraphicsFixes.h in Headers */ = {isa = PBXBuildFile; fileRef = DF3A85E1704435852A3AF25F38AA6D00 /* CoreGraphicsFixes.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7E3465020C8F01EF10B35B77CFD39040 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		86B3827B7562CC23058483507F25D06E /* Pods-TapFontKit-iOS-TapFontKit-iOSTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B4636B5B6E32833CD0D5F00774A6D3C7 /* Pods-TapFontKit-iOS-TapFontKit-iOSTests-dummy.m */; };
+		8FA4CF12712059E48ABBE26B57DA4C87 /* ExceptionCatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = C1D0415D54C3BB2A6F583E420235569C /* ExceptionCatcher.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9259E9AFAD212DE7ADAB35FBC9440CEB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		9DFAEE16E39618AC7381A9D53CF977FE /* Pods-TapFontKitExampleTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7EA8BF8613406483E144E37E852C65BE /* Pods-TapFontKitExampleTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9E97B5E5A0BDF0D5B473D083940CF966 /* Pods-TapFontKitExample-TapFontKitExampleUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 41B529D9C988F9925EAB3CD39CF63FFF /* Pods-TapFontKitExample-TapFontKitExampleUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A26F9C22DE27C3C05DCAF4F9A3B47906 /* Pods-TapFontKitExampleTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7EA8BF8613406483E144E37E852C65BE /* Pods-TapFontKitExampleTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CC5A3C826AC504604A33ED4F6B10690A /* Pods-TapFontKit-iOS-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 96C89603D79F06938A01C371B01EAB4E /* Pods-TapFontKit-iOS-dummy.m */; };
-		D5521017A6EE1DD3C70E9801BBCD0C59 /* Pods-TapFontKitExample-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 851463EC75D536A4FC5A886D651BB313 /* Pods-TapFontKitExample-dummy.m */; };
-		E02ED8A96D9F50E315C231E7DD45CFFD /* TapSwiftFixes-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 77163F6ED174277B5B82AADC3CFB7E0A /* TapSwiftFixes-dummy.m */; };
-		E44A9EF01495F09D2EA7029177FD7B4D /* ExceptionCatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 9FA745A3CFA7CB9700C151F49274FFE2 /* ExceptionCatcher.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C016027A7259B3CB8703548E85F8315C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		D8EE97A99AF2AD0A0CF9A32962AB0CBB /* TapSwiftFixesV2-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5EA388FB01F872BA5F4CC6D5D857AECC /* TapSwiftFixesV2-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E7AD50435EF244B10CFA83522F16260C /* Pods-TapFontKitExample-TapFontKitExampleUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 574A4378C812CB6B6F8FA82AAD373EE3 /* Pods-TapFontKitExample-TapFontKitExampleUITests-dummy.m */; };
-		EC76A05A16D832F1DBBAC223CE518707 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		F0A0087F720E001EBF3F4FDDAA738863 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		130CEAF76CF67D014FF15EF27B471506 /* PBXContainerItemProxy */ = {
+		617847A5ED578B8B931C8017D018B053 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 2A84B9D796D0D04B87F4B7C8561AAF92;
-			remoteInfo = TapSwiftFixes;
+			remoteGlobalIDString = E216967D71699A6EF43A16A4B8B6D624;
+			remoteInfo = TapSwiftFixesV2;
 		};
-		43E0318CE2E3B2A3784CA5AB9DA5F355 /* PBXContainerItemProxy */ = {
+		8C864FA3726AD2808C046AF4DA707021 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = A56C183330EE981E5AB977222BB5E324;
 			remoteInfo = "Pods-TapFontKitExample";
 		};
-		9FF50204B051679FF260AD30F9DF71A0 /* PBXContainerItemProxy */ = {
+		A863DE91F59E233EFC5F859FAFE88E31 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 2A84B9D796D0D04B87F4B7C8561AAF92;
-			remoteInfo = TapSwiftFixes;
+			remoteGlobalIDString = E216967D71699A6EF43A16A4B8B6D624;
+			remoteInfo = TapSwiftFixesV2;
 		};
-		D8DEFF2C3B8079D6A5CDA64582A33AE9 /* PBXContainerItemProxy */ = {
+		ACB315444439EDA1B570BF8C087C3BF0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 2A84B9D796D0D04B87F4B7C8561AAF92;
-			remoteInfo = TapSwiftFixes;
+			remoteGlobalIDString = E216967D71699A6EF43A16A4B8B6D624;
+			remoteInfo = TapSwiftFixesV2;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		0445C790867601B04377F32ED576806A /* Pods-TapFontKit-iOS-TapFontKit-iOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TapFontKit-iOS-TapFontKit-iOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		08C27441BA743535DF70645C00DE75DB /* TapSwiftFixesV2.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = TapSwiftFixesV2.modulemap; sourceTree = "<group>"; };
 		0CE2D6ACFC36AB7481A7140BCA667601 /* Pods-TapFontKitExampleTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TapFontKitExampleTests.debug.xcconfig"; sourceTree = "<group>"; };
 		10456A45C47B423EE1FD09DFFA3E2991 /* Pods-TapFontKit-iOS-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TapFontKit-iOS-acknowledgements.plist"; sourceTree = "<group>"; };
 		12D2BC74E138AC53D6B21D1A5499B283 /* Pods-TapFontKit-iOS-TapFontKit-iOSTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TapFontKit-iOS-TapFontKit-iOSTests-Info.plist"; sourceTree = "<group>"; };
 		18151A529A865514E052984C680BB0A4 /* Pods-TapFontKit-iOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TapFontKit-iOS.release.xcconfig"; sourceTree = "<group>"; };
 		1B495C00B7115FF06E038D29D47369F1 /* Pods-TapFontKitExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TapFontKitExample.release.xcconfig"; sourceTree = "<group>"; };
 		1EA151B096F0FAF8A734893FC8F18891 /* Pods-TapFontKitExampleTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TapFontKitExampleTests-dummy.m"; sourceTree = "<group>"; };
-		2B4F7EEAE0B7DB7162CD1F7B506C147E /* TapSwiftFixes-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TapSwiftFixes-umbrella.h"; sourceTree = "<group>"; };
+		26D9D8DB2F57EC7ADAB42339AFF2B84C /* TapSwiftFixesV2-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TapSwiftFixesV2-prefix.pch"; sourceTree = "<group>"; };
 		2E52AC6DF267F4C6DC915E8D49C62D93 /* Pods-TapFontKit-iOS-TapFontKit-iOSTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TapFontKit-iOS-TapFontKit-iOSTests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		3C1F640A36DAB3CB86576BB5A6D265CD /* TapSwiftFixes.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = TapSwiftFixes.modulemap; sourceTree = "<group>"; };
 		41B529D9C988F9925EAB3CD39CF63FFF /* Pods-TapFontKitExample-TapFontKitExampleUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TapFontKitExample-TapFontKitExampleUITests-umbrella.h"; sourceTree = "<group>"; };
-		4D68837D517A131927D957F6A5B0043D /* CoreGraphicsFixes.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CoreGraphicsFixes.m; path = Common/Source/CoreGraphicsFixes/CoreGraphicsFixes.m; sourceTree = "<group>"; };
 		574A4378C812CB6B6F8FA82AAD373EE3 /* Pods-TapFontKitExample-TapFontKitExampleUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TapFontKitExample-TapFontKitExampleUITests-dummy.m"; sourceTree = "<group>"; };
+		5EA388FB01F872BA5F4CC6D5D857AECC /* TapSwiftFixesV2-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TapSwiftFixesV2-umbrella.h"; sourceTree = "<group>"; };
 		5EFACBB9E04346E2969B214CAD819E61 /* Pods-TapFontKit-iOS-TapFontKit-iOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TapFontKit-iOS-TapFontKit-iOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		605B4827BBBBAC3D1A092A985BAFD6F9 /* Pods-TapFontKitExample-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TapFontKitExample-frameworks.sh"; sourceTree = "<group>"; };
 		60F04DA4EF01DC72F041351AE3A1FAEB /* Pods-TapFontKit-iOS-TapFontKit-iOSTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TapFontKit-iOS-TapFontKit-iOSTests.modulemap"; sourceTree = "<group>"; };
 		65B4C8E560C06467937B82E5C378FA2B /* Pods-TapFontKitExample-TapFontKitExampleUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TapFontKitExample-TapFontKitExampleUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		6B012BE52CA6AF62BE17897A8C3957F7 /* Pods-TapFontKitExampleTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TapFontKitExampleTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		71CB04F14E9F352977189124A56CECDC /* Pods-TapFontKitExample-TapFontKitExampleUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TapFontKitExample-TapFontKitExampleUITests.release.xcconfig"; sourceTree = "<group>"; };
+		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		73A61CD573EAA9AEAD71C9AD25EA9ABA /* Pods-TapFontKit-iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TapFontKit-iOS.debug.xcconfig"; sourceTree = "<group>"; };
 		76CAC45B71B82CDBC7C2EA04422733C1 /* Pods-TapFontKitExample-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TapFontKitExample-umbrella.h"; sourceTree = "<group>"; };
-		77163F6ED174277B5B82AADC3CFB7E0A /* TapSwiftFixes-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TapSwiftFixes-dummy.m"; sourceTree = "<group>"; };
-		7A5CF57EEB680045F14329220FC72139 /* TapSwiftFixes.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TapSwiftFixes.release.xcconfig; sourceTree = "<group>"; };
+		787EB246263A55AD954E3896310CF256 /* ThreadingFixes.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ThreadingFixes.swift; path = Common/Source/ThreadingFixes/ThreadingFixes.swift; sourceTree = "<group>"; };
 		7D72E587BB05B3C0C334493C99882C2C /* Pods-TapFontKit-iOS-TapFontKit-iOSTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TapFontKit-iOS-TapFontKit-iOSTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		7D9EAA1EED471F2AF96779DD393CCB73 /* TapSwiftFixesV2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = TapSwiftFixesV2.framework; path = TapSwiftFixesV2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E6D40769BA1B024CC658D0E97003FDC /* Pods_TapFontKit_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TapFontKit_iOS.framework; path = "Pods-TapFontKit-iOS.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EA8BF8613406483E144E37E852C65BE /* Pods-TapFontKitExampleTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TapFontKitExampleTests-umbrella.h"; sourceTree = "<group>"; };
 		80BE1FC8B404C83164C5245E8A804AF5 /* Pods-TapFontKitExample.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TapFontKitExample.modulemap"; sourceTree = "<group>"; };
@@ -96,84 +96,84 @@
 		87FD8009502F4AFDCFEF1FF2BB8E8420 /* Pods-TapFontKitExample-TapFontKitExampleUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TapFontKitExample-TapFontKitExampleUITests.modulemap"; sourceTree = "<group>"; };
 		88722BC9F82D7E86126B2AECA32C552F /* Pods-TapFontKitExample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TapFontKitExample.debug.xcconfig"; sourceTree = "<group>"; };
 		8900852DD4C6E0B7718EDF85680E5BD4 /* Pods-TapFontKit-iOS-TapFontKit-iOSTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TapFontKit-iOS-TapFontKit-iOSTests-umbrella.h"; sourceTree = "<group>"; };
+		89583E965E391CC0E3BDEF29F8AA1D9A /* CoreGraphicsFixes.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CoreGraphicsFixes.m; path = Common/Source/CoreGraphicsFixes/CoreGraphicsFixes.m; sourceTree = "<group>"; };
+		8B091EC3269BD5A59397B7D723900F31 /* ExceptionCatcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ExceptionCatcher.m; path = Common/Source/ExceptionCatcher/ExceptionCatcher.m; sourceTree = "<group>"; };
 		8E96308800DEEB580336BC17B366A916 /* Pods-TapFontKitExample-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TapFontKitExample-acknowledgements.plist"; sourceTree = "<group>"; };
 		8EC0E79F55249DDBF9AD04B52DBFAAFA /* Pods-TapFontKit-iOS-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TapFontKit-iOS-umbrella.h"; sourceTree = "<group>"; };
 		952AC34CCAD2FFD42D241CAF49E5934E /* Pods_TapFontKitExample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TapFontKitExample.framework; path = "Pods-TapFontKitExample.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		96C89603D79F06938A01C371B01EAB4E /* Pods-TapFontKit-iOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TapFontKit-iOS-dummy.m"; sourceTree = "<group>"; };
-		98134E15F4060D3D4F97CD93F61E61C8 /* CoreGraphicsFixes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CoreGraphicsFixes.h; path = Common/Source/CoreGraphicsFixes/CoreGraphicsFixes.h; sourceTree = "<group>"; };
 		9826A86E050FFDB7DF59C1DECD5E63F3 /* Pods-TapFontKitExample-TapFontKitExampleUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TapFontKitExample-TapFontKitExampleUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		99D866B7484FB9270FB250CFD7AAF6C7 /* ExceptionCatcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ExceptionCatcher.m; path = Common/Source/ExceptionCatcher/ExceptionCatcher.m; sourceTree = "<group>"; };
+		98EC580AD5E74F4EE0F84882A2B3332F /* TapSwiftFixesV2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TapSwiftFixesV2.debug.xcconfig; sourceTree = "<group>"; };
 		9BA13AE39ADF877BEE7F10DDEB59CCDA /* Pods-TapFontKit-iOS-TapFontKit-iOSTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TapFontKit-iOS-TapFontKit-iOSTests-frameworks.sh"; sourceTree = "<group>"; };
 		9CAA917902A586BD7EBC44E861455DFB /* Pods_TapFontKitExampleTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TapFontKitExampleTests.framework; path = "Pods-TapFontKitExampleTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9FA745A3CFA7CB9700C151F49274FFE2 /* ExceptionCatcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ExceptionCatcher.h; path = Common/Source/ExceptionCatcher/ExceptionCatcher.h; sourceTree = "<group>"; };
 		A28A41369EC13C36A3A3FCB6A92428E9 /* Pods-TapFontKitExample-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TapFontKitExample-Info.plist"; sourceTree = "<group>"; };
+		A2A2C66A5136F4A1662793E07BCC282C /* TapSwiftFixesV2-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TapSwiftFixesV2-dummy.m"; sourceTree = "<group>"; };
 		A2E81A7C164976D4282ADEBED46135D3 /* Pods-TapFontKit-iOS-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TapFontKit-iOS-Info.plist"; sourceTree = "<group>"; };
-		AAF64E9092316730E514054606368E26 /* ThreadingFixes.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ThreadingFixes.swift; path = Common/Source/ThreadingFixes/ThreadingFixes.swift; sourceTree = "<group>"; };
+		A49A203B975FFF55ECFA13675B48F382 /* TapSwiftFixesV2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TapSwiftFixesV2.release.xcconfig; sourceTree = "<group>"; };
 		AECDA7C4AA5E21A939BC16399D4ED85D /* Pods-TapFontKitExample-TapFontKitExampleUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TapFontKitExample-TapFontKitExampleUITests-acknowledgements.plist"; sourceTree = "<group>"; };
-		AF846AF84579851A2BDBF6CA08549EF2 /* TapSwiftFixes-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TapSwiftFixes-prefix.pch"; sourceTree = "<group>"; };
-		B115554EE5400D5700D96FBEED4E654A /* TapSwiftFixes-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "TapSwiftFixes-Info.plist"; sourceTree = "<group>"; };
 		B4636B5B6E32833CD0D5F00774A6D3C7 /* Pods-TapFontKit-iOS-TapFontKit-iOSTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TapFontKit-iOS-TapFontKit-iOSTests-dummy.m"; sourceTree = "<group>"; };
 		B47FA04673FD5F05B039E0ED8B32E5CC /* Pods-TapFontKitExample-TapFontKitExampleUITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TapFontKitExample-TapFontKitExampleUITests-Info.plist"; sourceTree = "<group>"; };
 		B797928A2A54C229DC60D786763A7618 /* Pods_TapFontKit_iOS_TapFontKit_iOSTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TapFontKit_iOS_TapFontKit_iOSTests.framework; path = "Pods-TapFontKit-iOS-TapFontKit-iOSTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA1A275B8258E3E75B9CB4AA43199EC3 /* Pods-TapFontKitExampleTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TapFontKitExampleTests-Info.plist"; sourceTree = "<group>"; };
-		BC351459408AB40B38BF862855183ADF /* TapSwiftFixes.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = TapSwiftFixes.framework; path = TapSwiftFixes.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC5F2667100F505EC323512CC8D77A31 /* Pods-TapFontKitExampleTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TapFontKitExampleTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		BD0840854D6504A37FEB23D358732EB3 /* Pods-TapFontKitExampleTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TapFontKitExampleTests.release.xcconfig"; sourceTree = "<group>"; };
-		BE13A6B300C43236C7D9607E96AF9895 /* TapSwiftFixes.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TapSwiftFixes.debug.xcconfig; sourceTree = "<group>"; };
+		C1D0415D54C3BB2A6F583E420235569C /* ExceptionCatcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ExceptionCatcher.h; path = Common/Source/ExceptionCatcher/ExceptionCatcher.h; sourceTree = "<group>"; };
+		C71907F38C9862F00B55BA46C0834244 /* TapSwiftFixesV2-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "TapSwiftFixesV2-Info.plist"; sourceTree = "<group>"; };
 		CF67C62E0771F2F16DE91A8A3B2D2CD6 /* Pods-TapFontKit-iOS-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TapFontKit-iOS-acknowledgements.markdown"; sourceTree = "<group>"; };
 		D57B90330ADAD2E7FE0605D8A6D69090 /* Pods-TapFontKitExampleTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TapFontKitExampleTests.modulemap"; sourceTree = "<group>"; };
 		D770C2FDFBC0071C715C9033628A3671 /* Pods-TapFontKitExample-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TapFontKitExample-acknowledgements.markdown"; sourceTree = "<group>"; };
 		D92C23AA5B426A36F92C10D5F5B60CD8 /* Pods-TapFontKit-iOS.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TapFontKit-iOS.modulemap"; sourceTree = "<group>"; };
+		DF3A85E1704435852A3AF25F38AA6D00 /* CoreGraphicsFixes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CoreGraphicsFixes.h; path = Common/Source/CoreGraphicsFixes/CoreGraphicsFixes.h; sourceTree = "<group>"; };
 		E7558B31EED64A86155FF8586C1E8198 /* Pods_TapFontKitExample_TapFontKitExampleUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TapFontKitExample_TapFontKitExampleUITests.framework; path = "Pods-TapFontKitExample-TapFontKitExampleUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		0CB49B4535F758B7EFE83DF723384EB8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F0A0087F720E001EBF3F4FDDAA738863 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2ACCD2AB845688FBD846E6428727EFEC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C016027A7259B3CB8703548E85F8315C /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		327038C514FC2F004E3CFDB1AE387900 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8B33E97B1733D161657DA102864AAC3D /* Foundation.framework in Frameworks */,
+				7E3465020C8F01EF10B35B77CFD39040 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3DA18AD7679F5FE121DDCB15B4248888 /* Frameworks */ = {
+		511BEC8C002C0883C5109FA29CF18D20 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2AFE951DDFD8F444EA9BBAC533CC856C /* Foundation.framework in Frameworks */,
+				15A1326FA04346E5D17AB1A5052EFBA1 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6C7A9E35B5975BF3933FC61A549FB23B /* Frameworks */ = {
+		523E382362C97343A81A5B2AECB93DF3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				673CF3E4AA84464764F5B129AAE3BCFF /* Foundation.framework in Frameworks */,
+				29CF232BAD5B95E9C2BD06B5CED9E7E7 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7CB5F3C0FFC3A099D50B0770CBB831BE /* Frameworks */ = {
+		CC487B24F786A825C2DA796EDD9B573C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				326865EE34BECA7FFD7F9026870855F7 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		ADFC369FA21D977FBAE41F6CB2970599 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				0C41F25B5D43B543A0D033145667752B /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		B4C5DD838F4126273E34D96189C151F8 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				EC76A05A16D832F1DBBAC223CE518707 /* Foundation.framework in Frameworks */,
+				9259E9AFAD212DE7ADAB35FBC9440CEB /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -196,30 +196,25 @@
 			path = "Target Support Files/Pods-TapFontKitExample-TapFontKitExampleUITests";
 			sourceTree = "<group>";
 		};
-		1DBA758D8E728738CF20FADD61ADEECF /* CoreGraphics */ = {
+		0570CB870C03CF25735786D09D43666B /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				98134E15F4060D3D4F97CD93F61E61C8 /* CoreGraphicsFixes.h */,
-				4D68837D517A131927D957F6A5B0043D /* CoreGraphicsFixes.m */,
+				47A0E2C403913882D321B58AC330D3FE /* TapSwiftFixesV2 */,
 			);
-			name = CoreGraphics;
+			name = Pods;
 			sourceTree = "<group>";
 		};
-		35F3028734A24975B5F42E0FA3CB29A7 /* Threading */ = {
+		2535AD3DB26F0544D1D6A3096143BBEF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				AAF64E9092316730E514054606368E26 /* ThreadingFixes.swift */,
+				7E6D40769BA1B024CC658D0E97003FDC /* Pods_TapFontKit_iOS.framework */,
+				B797928A2A54C229DC60D786763A7618 /* Pods_TapFontKit_iOS_TapFontKit_iOSTests.framework */,
+				952AC34CCAD2FFD42D241CAF49E5934E /* Pods_TapFontKitExample.framework */,
+				E7558B31EED64A86155FF8586C1E8198 /* Pods_TapFontKitExample_TapFontKitExampleUITests.framework */,
+				9CAA917902A586BD7EBC44E861455DFB /* Pods_TapFontKitExampleTests.framework */,
+				7D9EAA1EED471F2AF96779DD393CCB73 /* TapSwiftFixesV2.framework */,
 			);
-			name = Threading;
-			sourceTree = "<group>";
-		};
-		3AFC69637FFE345DCFB48482BBB35AD8 /* Exceptions */ = {
-			isa = PBXGroup;
-			children = (
-				9FA745A3CFA7CB9700C151F49274FFE2 /* ExceptionCatcher.h */,
-				99D866B7484FB9270FB250CFD7AAF6C7 /* ExceptionCatcher.m */,
-			);
-			name = Exceptions;
+			name = Products;
 			sourceTree = "<group>";
 		};
 		3B62FC28F20DAEBF98B450257FCDADF1 /* Pods-TapFontKit-iOS-TapFontKit-iOSTests */ = {
@@ -239,12 +234,16 @@
 			path = "Target Support Files/Pods-TapFontKit-iOS-TapFontKit-iOSTests";
 			sourceTree = "<group>";
 		};
-		4894D16793D77CFEC03CB1D6E88FD6CD /* Pods */ = {
+		47A0E2C403913882D321B58AC330D3FE /* TapSwiftFixesV2 */ = {
 			isa = PBXGroup;
 			children = (
-				5FB12AF4296003590DBF28E08EB1138A /* TapSwiftFixes */,
+				687607B4A05A0B348EBC0730768C4430 /* CoreGraphics */,
+				BE35B73634E036E0E505C9D39678A5EB /* Exceptions */,
+				CA8B045C61BC2E8CE9C6F65D2141BB61 /* Support Files */,
+				8DEA707FA81C5B8B7A19A37DB1F08B34 /* Threading */,
 			);
-			name = Pods;
+			name = TapSwiftFixesV2;
+			path = TapSwiftFixesV2;
 			sourceTree = "<group>";
 		};
 		5635D298D4A37F3B9C62A81DA1029F4C /* Targets Support Files */ = {
@@ -259,16 +258,21 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		5FB12AF4296003590DBF28E08EB1138A /* TapSwiftFixes */ = {
+		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				1DBA758D8E728738CF20FADD61ADEECF /* CoreGraphics */,
-				3AFC69637FFE345DCFB48482BBB35AD8 /* Exceptions */,
-				B309784C78ABBF3EDE4C6FD9A9E34840 /* Support Files */,
-				35F3028734A24975B5F42E0FA3CB29A7 /* Threading */,
+				73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */,
 			);
-			name = TapSwiftFixes;
-			path = TapSwiftFixes;
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		687607B4A05A0B348EBC0730768C4430 /* CoreGraphics */ = {
+			isa = PBXGroup;
+			children = (
+				DF3A85E1704435852A3AF25F38AA6D00 /* CoreGraphicsFixes.h */,
+				89583E965E391CC0E3BDEF29F8AA1D9A /* CoreGraphicsFixes.m */,
+			);
+			name = CoreGraphics;
 			sourceTree = "<group>";
 		};
 		830BCC8B981EE99115681F4163A61303 /* Pods-TapFontKit-iOS */ = {
@@ -287,6 +291,14 @@
 			path = "Target Support Files/Pods-TapFontKit-iOS";
 			sourceTree = "<group>";
 		};
+		8DEA707FA81C5B8B7A19A37DB1F08B34 /* Threading */ = {
+			isa = PBXGroup;
+			children = (
+				787EB246263A55AD954E3896310CF256 /* ThreadingFixes.swift */,
+			);
+			name = Threading;
+			sourceTree = "<group>";
+		};
 		9705CBA2DB75AD49131AAFAE8878ED40 /* Pods-TapFontKitExampleTests */ = {
 			isa = PBXGroup;
 			children = (
@@ -301,19 +313,6 @@
 			);
 			name = "Pods-TapFontKitExampleTests";
 			path = "Target Support Files/Pods-TapFontKitExampleTests";
-			sourceTree = "<group>";
-		};
-		A7C2731F0926A7A7FC1B7F711A22565D /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				7E6D40769BA1B024CC658D0E97003FDC /* Pods_TapFontKit_iOS.framework */,
-				B797928A2A54C229DC60D786763A7618 /* Pods_TapFontKit_iOS_TapFontKit_iOSTests.framework */,
-				952AC34CCAD2FFD42D241CAF49E5934E /* Pods_TapFontKitExample.framework */,
-				E7558B31EED64A86155FF8586C1E8198 /* Pods_TapFontKitExample_TapFontKitExampleUITests.framework */,
-				9CAA917902A586BD7EBC44E861455DFB /* Pods_TapFontKitExampleTests.framework */,
-				BC351459408AB40B38BF862855183ADF /* TapSwiftFixes.framework */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		AF4086F75791F22F2693A53CECA3FEDB /* Pods-TapFontKitExample */ = {
@@ -333,27 +332,28 @@
 			path = "Target Support Files/Pods-TapFontKitExample";
 			sourceTree = "<group>";
 		};
-		B309784C78ABBF3EDE4C6FD9A9E34840 /* Support Files */ = {
+		BE35B73634E036E0E505C9D39678A5EB /* Exceptions */ = {
 			isa = PBXGroup;
 			children = (
-				3C1F640A36DAB3CB86576BB5A6D265CD /* TapSwiftFixes.modulemap */,
-				77163F6ED174277B5B82AADC3CFB7E0A /* TapSwiftFixes-dummy.m */,
-				B115554EE5400D5700D96FBEED4E654A /* TapSwiftFixes-Info.plist */,
-				AF846AF84579851A2BDBF6CA08549EF2 /* TapSwiftFixes-prefix.pch */,
-				2B4F7EEAE0B7DB7162CD1F7B506C147E /* TapSwiftFixes-umbrella.h */,
-				BE13A6B300C43236C7D9607E96AF9895 /* TapSwiftFixes.debug.xcconfig */,
-				7A5CF57EEB680045F14329220FC72139 /* TapSwiftFixes.release.xcconfig */,
+				C1D0415D54C3BB2A6F583E420235569C /* ExceptionCatcher.h */,
+				8B091EC3269BD5A59397B7D723900F31 /* ExceptionCatcher.m */,
 			);
-			name = "Support Files";
-			path = "../Target Support Files/TapSwiftFixes";
+			name = Exceptions;
 			sourceTree = "<group>";
 		};
-		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
+		CA8B045C61BC2E8CE9C6F65D2141BB61 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */,
+				08C27441BA743535DF70645C00DE75DB /* TapSwiftFixesV2.modulemap */,
+				A2A2C66A5136F4A1662793E07BCC282C /* TapSwiftFixesV2-dummy.m */,
+				C71907F38C9862F00B55BA46C0834244 /* TapSwiftFixesV2-Info.plist */,
+				26D9D8DB2F57EC7ADAB42339AFF2B84C /* TapSwiftFixesV2-prefix.pch */,
+				5EA388FB01F872BA5F4CC6D5D857AECC /* TapSwiftFixesV2-umbrella.h */,
+				98EC580AD5E74F4EE0F84882A2B3332F /* TapSwiftFixesV2.debug.xcconfig */,
+				A49A203B975FFF55ECFA13675B48F382 /* TapSwiftFixesV2.release.xcconfig */,
 			);
-			name = iOS;
+			name = "Support Files";
+			path = "../Target Support Files/TapSwiftFixesV2";
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
@@ -361,8 +361,8 @@
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
-				4894D16793D77CFEC03CB1D6E88FD6CD /* Pods */,
-				A7C2731F0926A7A7FC1B7F711A22565D /* Products */,
+				0570CB870C03CF25735786D09D43666B /* Pods */,
+				2535AD3DB26F0544D1D6A3096143BBEF /* Products */,
 				5635D298D4A37F3B9C62A81DA1029F4C /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
@@ -370,7 +370,7 @@
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				C0834CEBB1379A84116EF29F93051C60 /* iOS */,
+				578452D2E740E91742655AC8F1636D1F /* iOS */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -378,19 +378,11 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		1F36B7F881C1B5F807F79E820A912FBC /* Headers */ = {
+		1091D577EEE15E312B28BC37C7BAD5FA /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				505A27BA814654D1DDA2A3519D2A8DE5 /* Pods-TapFontKit-iOS-TapFontKit-iOSTests-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		24381F307AAD3D7664B40384886CB38B /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				3A698D39600218D7644DB5D808626A32 /* Pods-TapFontKitExample-umbrella.h in Headers */,
+				60AED9266F1A9E384C844F0F1C43DB94 /* Pods-TapFontKit-iOS-TapFontKit-iOSTests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -402,29 +394,37 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		41A7046F1E424FAE6980773F9A0008FB /* Headers */ = {
+		51A249739CA0FC6DB83173C3FFA23148 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				73DDB6280955447CDD51588473DE106E /* CoreGraphicsFixes.h in Headers */,
-				E44A9EF01495F09D2EA7029177FD7B4D /* ExceptionCatcher.h in Headers */,
-				9C6C997F21EB949EE0700E0156D5FA01 /* TapSwiftFixes-umbrella.h in Headers */,
+				462DE8A53F1EB81A1C067A3E0F0BF800 /* Pods-TapFontKitExample-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		47BA1AD87D9042835F496B97E7528F34 /* Headers */ = {
+		874FAD62EE8A634032D782C6A93FA91A /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A26F9C22DE27C3C05DCAF4F9A3B47906 /* Pods-TapFontKitExampleTests-umbrella.h in Headers */,
+				7D059194E1B805C6327DEAF3EF07E78F /* CoreGraphicsFixes.h in Headers */,
+				8FA4CF12712059E48ABBE26B57DA4C87 /* ExceptionCatcher.h in Headers */,
+				D8EE97A99AF2AD0A0CF9A32962AB0CBB /* TapSwiftFixesV2-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5B7416D7CF846453A61A3C9113A8465A /* Headers */ = {
+		C44E95E4A3ACF55D327BD3F7D0106057 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				203560DB935CEFC8FA00DCD15834BF93 /* Pods-TapFontKit-iOS-umbrella.h in Headers */,
+				38CF13ED3FF256787E87FA1062D31821 /* Pods-TapFontKit-iOS-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DC122AF30BBB170C90B6CE181482AF55 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DFAEE16E39618AC7381A9D53CF977FE /* Pods-TapFontKitExampleTests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -449,37 +449,19 @@
 			productReference = E7558B31EED64A86155FF8586C1E8198 /* Pods_TapFontKitExample_TapFontKitExampleUITests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		2A84B9D796D0D04B87F4B7C8561AAF92 /* TapSwiftFixes */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 046AC33CA6AABD1D81F3B4529F6922B3 /* Build configuration list for PBXNativeTarget "TapSwiftFixes" */;
-			buildPhases = (
-				41A7046F1E424FAE6980773F9A0008FB /* Headers */,
-				342E97020DBA1712CCD69895DC58055F /* Sources */,
-				ADFC369FA21D977FBAE41F6CB2970599 /* Frameworks */,
-				CC89916FDB80E226052F7D8C5BB5E5F6 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = TapSwiftFixes;
-			productName = TapSwiftFixes;
-			productReference = BC351459408AB40B38BF862855183ADF /* TapSwiftFixes.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 		9AF50096CFE1D0685B94899F4A98434E /* Pods-TapFontKit-iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9E031C730BC741C9F7E352CE6EFF2E12 /* Build configuration list for PBXNativeTarget "Pods-TapFontKit-iOS" */;
+			buildConfigurationList = A8B3658E9BB2F2B2A44F78159A2BE19E /* Build configuration list for PBXNativeTarget "Pods-TapFontKit-iOS" */;
 			buildPhases = (
-				5B7416D7CF846453A61A3C9113A8465A /* Headers */,
-				28E1B24FA6BDE2574F814B5280846550 /* Sources */,
-				B4C5DD838F4126273E34D96189C151F8 /* Frameworks */,
-				374303FE2BC961270235F82F7A1D4264 /* Resources */,
+				C44E95E4A3ACF55D327BD3F7D0106057 /* Headers */,
+				1D713497FF51E70C7E54A3CFEE9B754F /* Sources */,
+				511BEC8C002C0883C5109FA29CF18D20 /* Frameworks */,
+				E8D3B431525859D234E055FFA726FF6B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				5D011FBB34C0F65985B6E3FEA2CBA42C /* PBXTargetDependency */,
+				92356394090A05AE868FDA0BC32AC7F5 /* PBXTargetDependency */,
 			);
 			name = "Pods-TapFontKit-iOS";
 			productName = "Pods-TapFontKit-iOS";
@@ -488,17 +470,17 @@
 		};
 		A56C183330EE981E5AB977222BB5E324 /* Pods-TapFontKitExample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5260051311CF496B4593F0827EF2B218 /* Build configuration list for PBXNativeTarget "Pods-TapFontKitExample" */;
+			buildConfigurationList = 81B947D95FBA92D63E78099883EEABC2 /* Build configuration list for PBXNativeTarget "Pods-TapFontKitExample" */;
 			buildPhases = (
-				24381F307AAD3D7664B40384886CB38B /* Headers */,
-				D5AD2835344163B0532CAE0A667A6E53 /* Sources */,
-				6C7A9E35B5975BF3933FC61A549FB23B /* Frameworks */,
-				E0661E252DF0B47EEFDBC956E8211B7E /* Resources */,
+				51A249739CA0FC6DB83173C3FFA23148 /* Headers */,
+				1929C2A9B2896A472946298CC5430ADF /* Sources */,
+				523E382362C97343A81A5B2AECB93DF3 /* Frameworks */,
+				E2ED70D90B4545F82835AB8A1610757E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				A606F77B58CA110E04B9DED0ABA45A72 /* PBXTargetDependency */,
+				3B86CBD868B2B47FBBFA1767BF092772 /* PBXTargetDependency */,
 			);
 			name = "Pods-TapFontKitExample";
 			productName = "Pods-TapFontKitExample";
@@ -507,36 +489,54 @@
 		};
 		C3DA4E216DEF3EDCDA11106C47F456FB /* Pods-TapFontKit-iOS-TapFontKit-iOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7B3CFEF7D99DDF2CC37A3FC64FC486DC /* Build configuration list for PBXNativeTarget "Pods-TapFontKit-iOS-TapFontKit-iOSTests" */;
+			buildConfigurationList = 80E5904A35B897266E3A6212BD5FBBEA /* Build configuration list for PBXNativeTarget "Pods-TapFontKit-iOS-TapFontKit-iOSTests" */;
 			buildPhases = (
-				1F36B7F881C1B5F807F79E820A912FBC /* Headers */,
-				08BE7944A611211DA5E62E24E276348D /* Sources */,
-				7CB5F3C0FFC3A099D50B0770CBB831BE /* Frameworks */,
-				FCF2BCBE5AED432D396A4057344AB955 /* Resources */,
+				1091D577EEE15E312B28BC37C7BAD5FA /* Headers */,
+				0F703A266F40B463F9CD642849ACCDA4 /* Sources */,
+				0CB49B4535F758B7EFE83DF723384EB8 /* Frameworks */,
+				A08E94DC7C273CDDEC28133C8638287D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				55AE79DD5456A40FD69BB3E942EB4AB2 /* PBXTargetDependency */,
+				BF5D326C67A8425C5FDA95363992E849 /* PBXTargetDependency */,
 			);
 			name = "Pods-TapFontKit-iOS-TapFontKit-iOSTests";
 			productName = "Pods-TapFontKit-iOS-TapFontKit-iOSTests";
 			productReference = B797928A2A54C229DC60D786763A7618 /* Pods_TapFontKit_iOS_TapFontKit_iOSTests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		EBB55C1C013EF91F326F36AA338A58AA /* Pods-TapFontKitExampleTests */ = {
+		E216967D71699A6EF43A16A4B8B6D624 /* TapSwiftFixesV2 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8A43DD08929567A7D7C091A5F63E864E /* Build configuration list for PBXNativeTarget "Pods-TapFontKitExampleTests" */;
+			buildConfigurationList = A5A666059D8FAC495D55F63D6EBDAD6E /* Build configuration list for PBXNativeTarget "TapSwiftFixesV2" */;
 			buildPhases = (
-				47BA1AD87D9042835F496B97E7528F34 /* Headers */,
-				875A9A70D43750053370297FDF9B3B7A /* Sources */,
-				3DA18AD7679F5FE121DDCB15B4248888 /* Frameworks */,
-				CF7EAA5CA659F077C21337D23E160ECF /* Resources */,
+				874FAD62EE8A634032D782C6A93FA91A /* Headers */,
+				949E8DB1018651F6922EFBAE47688F7C /* Sources */,
+				CC487B24F786A825C2DA796EDD9B573C /* Frameworks */,
+				770C5B3ADDAEA8A85ECDF0FAED5AD835 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				390F0978AA999F654A9246B729918A86 /* PBXTargetDependency */,
+			);
+			name = TapSwiftFixesV2;
+			productName = TapSwiftFixesV2;
+			productReference = 7D9EAA1EED471F2AF96779DD393CCB73 /* TapSwiftFixesV2.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		EBB55C1C013EF91F326F36AA338A58AA /* Pods-TapFontKitExampleTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 062C0307CBEF6B1A9685A3CE8AC2E42F /* Build configuration list for PBXNativeTarget "Pods-TapFontKitExampleTests" */;
+			buildPhases = (
+				DC122AF30BBB170C90B6CE181482AF55 /* Headers */,
+				12FA06DBDE97EEDA694A3F762EAFF709 /* Sources */,
+				2ACCD2AB845688FBD846E6428727EFEC /* Frameworks */,
+				B47D7B436A3085E3D2C456A3EF89275A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				35061A7E2754B7730C12A5774621018C /* PBXTargetDependency */,
 			);
 			name = "Pods-TapFontKitExampleTests";
 			productName = "Pods-TapFontKitExampleTests";
@@ -561,7 +561,7 @@
 				Base,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = A7C2731F0926A7A7FC1B7F711A22565D /* Products */;
+			productRefGroup = 2535AD3DB26F0544D1D6A3096143BBEF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -570,13 +570,13 @@
 				A56C183330EE981E5AB977222BB5E324 /* Pods-TapFontKitExample */,
 				23443D563C4085578D732A153EA313ED /* Pods-TapFontKitExample-TapFontKitExampleUITests */,
 				EBB55C1C013EF91F326F36AA338A58AA /* Pods-TapFontKitExampleTests */,
-				2A84B9D796D0D04B87F4B7C8561AAF92 /* TapSwiftFixes */,
+				E216967D71699A6EF43A16A4B8B6D624 /* TapSwiftFixesV2 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		374303FE2BC961270235F82F7A1D4264 /* Resources */ = {
+		770C5B3ADDAEA8A85ECDF0FAED5AD835 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -590,28 +590,28 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CC89916FDB80E226052F7D8C5BB5E5F6 /* Resources */ = {
+		A08E94DC7C273CDDEC28133C8638287D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CF7EAA5CA659F077C21337D23E160ECF /* Resources */ = {
+		B47D7B436A3085E3D2C456A3EF89275A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E0661E252DF0B47EEFDBC956E8211B7E /* Resources */ = {
+		E2ED70D90B4545F82835AB8A1610757E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FCF2BCBE5AED432D396A4057344AB955 /* Resources */ = {
+		E8D3B431525859D234E055FFA726FF6B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -621,30 +621,35 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		08BE7944A611211DA5E62E24E276348D /* Sources */ = {
+		0F703A266F40B463F9CD642849ACCDA4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A24EE704A069647518D60F14656C767 /* Pods-TapFontKit-iOS-TapFontKit-iOSTests-dummy.m in Sources */,
+				86B3827B7562CC23058483507F25D06E /* Pods-TapFontKit-iOS-TapFontKit-iOSTests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		28E1B24FA6BDE2574F814B5280846550 /* Sources */ = {
+		12FA06DBDE97EEDA694A3F762EAFF709 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CC5A3C826AC504604A33ED4F6B10690A /* Pods-TapFontKit-iOS-dummy.m in Sources */,
+				43713F22AA8A437F302A677B0730DEC0 /* Pods-TapFontKitExampleTests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		342E97020DBA1712CCD69895DC58055F /* Sources */ = {
+		1929C2A9B2896A472946298CC5430ADF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8B2B9265489B9EBFB7A340947B602F75 /* CoreGraphicsFixes.m in Sources */,
-				0C7B10B97D7F95E2CE577E0CE59767DB /* ExceptionCatcher.m in Sources */,
-				E02ED8A96D9F50E315C231E7DD45CFFD /* TapSwiftFixes-dummy.m in Sources */,
-				3B5972E0C53A38D9126C69E678658F79 /* ThreadingFixes.swift in Sources */,
+				7BA82CF90B425B8BE2A86114B3AD7D2B /* Pods-TapFontKitExample-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1D713497FF51E70C7E54A3CFEE9B754F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0EF5A29D71999B4789D08CA2057BF722 /* Pods-TapFontKit-iOS-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -656,59 +661,53 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		875A9A70D43750053370297FDF9B3B7A /* Sources */ = {
+		949E8DB1018651F6922EFBAE47688F7C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4272C4651506110EF5FBD63310D78A74 /* Pods-TapFontKitExampleTests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D5AD2835344163B0532CAE0A667A6E53 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D5521017A6EE1DD3C70E9801BBCD0C59 /* Pods-TapFontKitExample-dummy.m in Sources */,
+				15EF9190BAE9990ECFCE5D118C469BBA /* CoreGraphicsFixes.m in Sources */,
+				751CD451B03E616FC943C92F352FF8D8 /* ExceptionCatcher.m in Sources */,
+				242FCFB2B8E92FAC064CA8D1ED02CAAD /* TapSwiftFixesV2-dummy.m in Sources */,
+				5CE12E36BA446D16920AD53B884C9032 /* ThreadingFixes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		390F0978AA999F654A9246B729918A86 /* PBXTargetDependency */ = {
+		35061A7E2754B7730C12A5774621018C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-TapFontKitExample";
 			target = A56C183330EE981E5AB977222BB5E324 /* Pods-TapFontKitExample */;
-			targetProxy = 43E0318CE2E3B2A3784CA5AB9DA5F355 /* PBXContainerItemProxy */;
+			targetProxy = 8C864FA3726AD2808C046AF4DA707021 /* PBXContainerItemProxy */;
 		};
-		55AE79DD5456A40FD69BB3E942EB4AB2 /* PBXTargetDependency */ = {
+		3B86CBD868B2B47FBBFA1767BF092772 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = TapSwiftFixes;
-			target = 2A84B9D796D0D04B87F4B7C8561AAF92 /* TapSwiftFixes */;
-			targetProxy = D8DEFF2C3B8079D6A5CDA64582A33AE9 /* PBXContainerItemProxy */;
+			name = TapSwiftFixesV2;
+			target = E216967D71699A6EF43A16A4B8B6D624 /* TapSwiftFixesV2 */;
+			targetProxy = A863DE91F59E233EFC5F859FAFE88E31 /* PBXContainerItemProxy */;
 		};
-		5D011FBB34C0F65985B6E3FEA2CBA42C /* PBXTargetDependency */ = {
+		92356394090A05AE868FDA0BC32AC7F5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = TapSwiftFixes;
-			target = 2A84B9D796D0D04B87F4B7C8561AAF92 /* TapSwiftFixes */;
-			targetProxy = 9FF50204B051679FF260AD30F9DF71A0 /* PBXContainerItemProxy */;
+			name = TapSwiftFixesV2;
+			target = E216967D71699A6EF43A16A4B8B6D624 /* TapSwiftFixesV2 */;
+			targetProxy = 617847A5ED578B8B931C8017D018B053 /* PBXContainerItemProxy */;
 		};
-		A606F77B58CA110E04B9DED0ABA45A72 /* PBXTargetDependency */ = {
+		BF5D326C67A8425C5FDA95363992E849 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = TapSwiftFixes;
-			target = 2A84B9D796D0D04B87F4B7C8561AAF92 /* TapSwiftFixes */;
-			targetProxy = 130CEAF76CF67D014FF15EF27B471506 /* PBXContainerItemProxy */;
+			name = TapSwiftFixesV2;
+			target = E216967D71699A6EF43A16A4B8B6D624 /* TapSwiftFixesV2 */;
+			targetProxy = ACB315444439EDA1B570BF8C087C3BF0 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		05385E0249E3038F21B7B7F320ED3B2B /* Debug */ = {
+		07ADE73199C2918A95D1B49A779A7478 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 88722BC9F82D7E86126B2AECA32C552F /* Pods-TapFontKitExample.debug.xcconfig */;
+			baseConfigurationReference = 5EFACBB9E04346E2969B214CAD819E61 /* Pods-TapFontKit-iOS-TapFontKit-iOSTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -717,7 +716,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-TapFontKitExample/Pods-TapFontKitExample-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-TapFontKit-iOS-TapFontKit-iOSTests/Pods-TapFontKit-iOS-TapFontKit-iOSTests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -726,7 +725,7 @@
 					"@loader_path/Frameworks",
 				);
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-TapFontKitExample/Pods-TapFontKitExample.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-TapFontKit-iOS-TapFontKit-iOSTests/Pods-TapFontKit-iOS-TapFontKit-iOSTests.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -740,10 +739,125 @@
 			};
 			name = Debug;
 		};
-		131356BE54884448CA49C07BEDF4BB2A /* Debug */ = {
+		09EB95D508A089A2691B4C788E81664F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 71CB04F14E9F352977189124A56CECDC /* Pods-TapFontKitExample-TapFontKitExampleUITests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-TapFontKitExample-TapFontKitExampleUITests/Pods-TapFontKitExample-TapFontKitExampleUITests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-TapFontKitExample-TapFontKitExampleUITests/Pods-TapFontKitExample-TapFontKitExampleUITests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		19312C697F9E6914E1B5AA1CC0139095 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0445C790867601B04377F32ED576806A /* Pods-TapFontKit-iOS-TapFontKit-iOSTests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-TapFontKit-iOS-TapFontKit-iOSTests/Pods-TapFontKit-iOS-TapFontKit-iOSTests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-TapFontKit-iOS-TapFontKit-iOSTests/Pods-TapFontKit-iOS-TapFontKit-iOSTests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		1A28EDFDC7E835071AFE2BAB4F70216F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BD0840854D6504A37FEB23D358732EB3 /* Pods-TapFontKitExampleTests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-TapFontKitExampleTests/Pods-TapFontKitExampleTests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-TapFontKitExampleTests/Pods-TapFontKitExampleTests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		2B9E26EAE2CD392AD762421F663075A1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -766,6 +880,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -804,128 +919,12 @@
 			};
 			name = Debug;
 		};
-		25DB5ACCC9B91D3B650714E81A409D78 /* Debug */ = {
+		4584F187D9DFC1553F2A5178FFDD09A4 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9826A86E050FFDB7DF59C1DECD5E63F3 /* Pods-TapFontKitExample-TapFontKitExampleUITests.debug.xcconfig */;
+			baseConfigurationReference = 88722BC9F82D7E86126B2AECA32C552F /* Pods-TapFontKitExample.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-TapFontKitExample-TapFontKitExampleUITests/Pods-TapFontKitExample-TapFontKitExampleUITests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-TapFontKitExample-TapFontKitExampleUITests/Pods-TapFontKitExample-TapFontKitExampleUITests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		3B3A791E57065D94BB02E913B1EE9031 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 71CB04F14E9F352977189124A56CECDC /* Pods-TapFontKitExample-TapFontKitExampleUITests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-TapFontKitExample-TapFontKitExampleUITests/Pods-TapFontKitExample-TapFontKitExampleUITests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-TapFontKitExample-TapFontKitExampleUITests/Pods-TapFontKitExample-TapFontKitExampleUITests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		3E02401EABFABE1781069A35FBF31C09 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 73A61CD573EAA9AEAD71C9AD25EA9ABA /* Pods-TapFontKit-iOS.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-TapFontKit-iOS/Pods-TapFontKit-iOS-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-TapFontKit-iOS/Pods-TapFontKit-iOS.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		4E4B14B3F4AF296D06450E21B4BB6C16 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1B495C00B7115FF06E038D29D47369F1 /* Pods-TapFontKitExample.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -952,93 +951,17 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		632D63C26FDDE6A5072542EE3D228B78 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = BE13A6B300C43236C7D9607E96AF9895 /* TapSwiftFixes.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/TapSwiftFixes/TapSwiftFixes-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/TapSwiftFixes/TapSwiftFixes-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/TapSwiftFixes/TapSwiftFixes.modulemap";
-				PRODUCT_MODULE_NAME = TapSwiftFixes;
-				PRODUCT_NAME = TapSwiftFixes;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
-		852805B4DE8D76B92215312D5B6D56E5 /* Release */ = {
+		543C0327338B4ECF980C6D8E1BBE5651 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 18151A529A865514E052984C680BB0A4 /* Pods-TapFontKit-iOS.release.xcconfig */;
+			baseConfigurationReference = 0CE2D6ACFC36AB7481A7140BCA667601 /* Pods-TapFontKitExampleTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-TapFontKit-iOS/Pods-TapFontKit-iOS-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-TapFontKit-iOS/Pods-TapFontKit-iOS.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		CCA16FD77597A06993819FE65945F21D /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = BD0840854D6504A37FEB23D358732EB3 /* Pods-TapFontKitExampleTests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -1065,19 +988,17 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
-		DB60FFB75A41795F153923C5EEDDE260 /* Debug */ = {
+		621C620CBE2EEDC40EF6CF4EAC77CA0B /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5EFACBB9E04346E2969B214CAD819E61 /* Pods-TapFontKit-iOS-TapFontKit-iOSTests.debug.xcconfig */;
+			baseConfigurationReference = 73A61CD573EAA9AEAD71C9AD25EA9ABA /* Pods-TapFontKit-iOS.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -1086,7 +1007,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-TapFontKit-iOS-TapFontKit-iOSTests/Pods-TapFontKit-iOS-TapFontKit-iOSTests-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-TapFontKit-iOS/Pods-TapFontKit-iOS-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -1095,7 +1016,7 @@
 					"@loader_path/Frameworks",
 				);
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-TapFontKit-iOS-TapFontKit-iOSTests/Pods-TapFontKit-iOS-TapFontKit-iOSTests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-TapFontKit-iOS/Pods-TapFontKit-iOS.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -1109,46 +1030,11 @@
 			};
 			name = Debug;
 		};
-		EE65B2C2C56C024A3185381B49F15DA6 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7A5CF57EEB680045F14329220FC72139 /* TapSwiftFixes.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/TapSwiftFixes/TapSwiftFixes-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/TapSwiftFixes/TapSwiftFixes-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/TapSwiftFixes/TapSwiftFixes.modulemap";
-				PRODUCT_MODULE_NAME = TapSwiftFixes;
-				PRODUCT_NAME = TapSwiftFixes;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		F090CD07A80273D5A73C8EA19224ADDB /* Release */ = {
+		63FAF33E1C55B71A5F5A8B3CC8749F99 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -1171,6 +1057,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -1205,13 +1092,10 @@
 			};
 			name = Release;
 		};
-		F2C5C31D1D0554BA00033FC9BF5E65A0 /* Debug */ = {
+		7A0FF6A058DCD1DD0230632AA855D839 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0CE2D6ACFC36AB7481A7140BCA667601 /* Pods-TapFontKitExampleTests.debug.xcconfig */;
+			baseConfigurationReference = 98EC580AD5E74F4EE0F84882A2B3332F /* TapSwiftFixesV2.debug.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -1220,7 +1104,78 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-TapFontKitExampleTests/Pods-TapFontKitExampleTests-Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/TapSwiftFixesV2/TapSwiftFixesV2-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/TapSwiftFixesV2/TapSwiftFixesV2-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/TapSwiftFixesV2/TapSwiftFixesV2.modulemap";
+				PRODUCT_MODULE_NAME = TapSwiftFixesV2;
+				PRODUCT_NAME = TapSwiftFixesV2;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		9CBD4F9C69523439EF3D673D1B9B0DAA /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A49A203B975FFF55ECFA13675B48F382 /* TapSwiftFixesV2.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/TapSwiftFixesV2/TapSwiftFixesV2-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/TapSwiftFixesV2/TapSwiftFixesV2-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/TapSwiftFixesV2/TapSwiftFixesV2.modulemap";
+				PRODUCT_MODULE_NAME = TapSwiftFixesV2;
+				PRODUCT_NAME = TapSwiftFixesV2;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		9F37286207C11DCF123221153059E771 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 18151A529A865514E052984C680BB0A4 /* Pods-TapFontKit-iOS.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-TapFontKit-iOS/Pods-TapFontKit-iOS-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -1229,7 +1184,45 @@
 					"@loader_path/Frameworks",
 				);
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-TapFontKitExampleTests/Pods-TapFontKitExampleTests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-TapFontKit-iOS/Pods-TapFontKit-iOS.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		DC9165C2D2A4EEF1F62044EFB75898FA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9826A86E050FFDB7DF59C1DECD5E63F3 /* Pods-TapFontKitExample-TapFontKitExampleUITests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-TapFontKitExample-TapFontKitExampleUITests/Pods-TapFontKitExample-TapFontKitExampleUITests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-TapFontKitExample-TapFontKitExampleUITests/Pods-TapFontKitExample-TapFontKitExampleUITests.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -1243,13 +1236,12 @@
 			};
 			name = Debug;
 		};
-		FD062FA12802E51A4E05AC19B61B5E45 /* Release */ = {
+		E46AC6F40FC5BC2D0B499E2898B3EDE9 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0445C790867601B04377F32ED576806A /* Pods-TapFontKit-iOS-TapFontKit-iOSTests.release.xcconfig */;
+			baseConfigurationReference = 1B495C00B7115FF06E038D29D47369F1 /* Pods-TapFontKitExample.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -1258,7 +1250,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-TapFontKit-iOS-TapFontKit-iOSTests/Pods-TapFontKit-iOS-TapFontKit-iOSTests-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-TapFontKitExample/Pods-TapFontKitExample-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -1267,7 +1259,7 @@
 					"@loader_path/Frameworks",
 				);
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-TapFontKit-iOS-TapFontKit-iOSTests/Pods-TapFontKit-iOS-TapFontKit-iOSTests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-TapFontKitExample/Pods-TapFontKitExample.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -1288,17 +1280,17 @@
 		00F2E52FAC56EB08874442644B578B75 /* Build configuration list for PBXNativeTarget "Pods-TapFontKitExample-TapFontKitExampleUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				25DB5ACCC9B91D3B650714E81A409D78 /* Debug */,
-				3B3A791E57065D94BB02E913B1EE9031 /* Release */,
+				DC9165C2D2A4EEF1F62044EFB75898FA /* Debug */,
+				09EB95D508A089A2691B4C788E81664F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		046AC33CA6AABD1D81F3B4529F6922B3 /* Build configuration list for PBXNativeTarget "TapSwiftFixes" */ = {
+		062C0307CBEF6B1A9685A3CE8AC2E42F /* Build configuration list for PBXNativeTarget "Pods-TapFontKitExampleTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				632D63C26FDDE6A5072542EE3D228B78 /* Debug */,
-				EE65B2C2C56C024A3185381B49F15DA6 /* Release */,
+				543C0327338B4ECF980C6D8E1BBE5651 /* Debug */,
+				1A28EDFDC7E835071AFE2BAB4F70216F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1306,44 +1298,44 @@
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				131356BE54884448CA49C07BEDF4BB2A /* Debug */,
-				F090CD07A80273D5A73C8EA19224ADDB /* Release */,
+				2B9E26EAE2CD392AD762421F663075A1 /* Debug */,
+				63FAF33E1C55B71A5F5A8B3CC8749F99 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5260051311CF496B4593F0827EF2B218 /* Build configuration list for PBXNativeTarget "Pods-TapFontKitExample" */ = {
+		80E5904A35B897266E3A6212BD5FBBEA /* Build configuration list for PBXNativeTarget "Pods-TapFontKit-iOS-TapFontKit-iOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				05385E0249E3038F21B7B7F320ED3B2B /* Debug */,
-				4E4B14B3F4AF296D06450E21B4BB6C16 /* Release */,
+				07ADE73199C2918A95D1B49A779A7478 /* Debug */,
+				19312C697F9E6914E1B5AA1CC0139095 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7B3CFEF7D99DDF2CC37A3FC64FC486DC /* Build configuration list for PBXNativeTarget "Pods-TapFontKit-iOS-TapFontKit-iOSTests" */ = {
+		81B947D95FBA92D63E78099883EEABC2 /* Build configuration list for PBXNativeTarget "Pods-TapFontKitExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DB60FFB75A41795F153923C5EEDDE260 /* Debug */,
-				FD062FA12802E51A4E05AC19B61B5E45 /* Release */,
+				4584F187D9DFC1553F2A5178FFDD09A4 /* Debug */,
+				E46AC6F40FC5BC2D0B499E2898B3EDE9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8A43DD08929567A7D7C091A5F63E864E /* Build configuration list for PBXNativeTarget "Pods-TapFontKitExampleTests" */ = {
+		A5A666059D8FAC495D55F63D6EBDAD6E /* Build configuration list for PBXNativeTarget "TapSwiftFixesV2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F2C5C31D1D0554BA00033FC9BF5E65A0 /* Debug */,
-				CCA16FD77597A06993819FE65945F21D /* Release */,
+				7A0FF6A058DCD1DD0230632AA855D839 /* Debug */,
+				9CBD4F9C69523439EF3D673D1B9B0DAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9E031C730BC741C9F7E352CE6EFF2E12 /* Build configuration list for PBXNativeTarget "Pods-TapFontKit-iOS" */ = {
+		A8B3658E9BB2F2B2A44F78159A2BE19E /* Build configuration list for PBXNativeTarget "Pods-TapFontKit-iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3E02401EABFABE1781069A35FBF31C09 /* Debug */,
-				852805B4DE8D76B92215312D5B6D56E5 /* Release */,
+				621C620CBE2EEDC40EF6CF4EAC77CA0B /* Debug */,
+				9F37286207C11DCF123221153059E771 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
