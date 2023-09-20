@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TapFontKit-iOS"
-  spec.version      = "0.0.9"
+  spec.version      = "0.0.10"
   spec.summary      = "A private usage kit to ease loading localized fonts throughout different Tap Kits."
 
   # This description is used to generate tags and improve search results.
@@ -63,8 +63,8 @@ Pod::Spec.new do |spec|
   #
 
   # spec.platform     = :ios
-  spec.platform     = :ios, "11.0"
-  spec.swift_versions = '4.0'
+  spec.platform     = :ios, "13.0"
+  spec.swift_versions = '5.0'
 
   #  When using multiple platforms
   # spec.ios.deployment_target = "5.0"
@@ -90,8 +90,8 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "TapFontKit-iOS/TapFontKit-iOS/Core/**/*.{h,m,swift}"
-  spec.exclude_files = "Classes/Exclude"
+  spec.source_files  = "Sources/TapFontKit-iOS/Logic/**/*.{h,m,swift}"
+  # spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
 
@@ -105,7 +105,7 @@ Pod::Spec.new do |spec|
   #
 
   # spec.resource  = "icon.png"
-  spec.resources = "TapFontKit-iOS/TapFontKit-iOS/Resources/**/*.{ttf}"
+  spec.resources = "Sources/TapFontKit-iOS/TapFontKitResources/**/*.{ttf}"
 
   # spec.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
